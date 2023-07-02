@@ -250,7 +250,7 @@ int main()
 
         else if(choice=='9')
         {
-            cout<<"The lenght of the iist is :"<<count(head)<<endl<<endl;
+            cout<<"The lenght of the list is :"<<count(head)<<endl<<endl;
         }
         else if(choice=='0')
         {
