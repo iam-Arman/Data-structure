@@ -260,7 +260,7 @@ int main()
         else cout<<"WRONG INPUT "<<endl<<endl; 
 
    }
-    cout<<"_________Developed by Shahriar Mahmud Arman_____________"<<endl;
+    cout<<"_________Created by Shahriar Mahmud Arman_____________"<<endl;
     cout<<"          Email : iamarman252575@gmail.com    "<<endl;
 
 }
