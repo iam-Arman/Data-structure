@@ -236,6 +236,7 @@ int main()
         {
             int ele;
             cout<<"Enter the number you want to search :";
+            cin>>ele;
             string s=search(head,ele);
             cout<<s<<endl<<endl;
         }
