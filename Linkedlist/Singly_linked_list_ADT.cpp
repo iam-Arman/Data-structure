@@ -192,7 +192,7 @@ int main()
             cout<<"Enter the Number of element you want to add :";
             int n;
             cin>>n;
-            cout<<"Enter "<<n<<"Elements ";
+            cout<<"Enter "<<n<<"  Elements ";
             int arr[n];
             for(int i=0;i<n;i++)
             {
